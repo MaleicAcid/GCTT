@@ -1,4 +1,7 @@
+已发布：https://studygolang.com/articles/11755
+
 # Hello World
+
 这是 Golang 系列教程的第 2 个教程。如果想要了解什么是 Golang，以及如何安装 Golang，请阅读 Golang 教程第 1 部分：介绍与安装。
 
 学习一种编程语言的最好方法就是去动手实践，编写代码。让我们开始编写第一个 Go 程序吧。
@@ -53,7 +56,7 @@ go
 
 在控制台上会看见 `Hello World` 的输出。
 
-2. 使用 **go install** 命令 - 在 `workspacepath/bin/hello` 目录下，输入 `go install hello` 命令来运行程序。
+2. 使用 **go install** 命令 - 运行 `go install hello`，接着可以用 `workspacepath/bin/hello` 来运行该程序。
 
 上述命令中的 **workspacepath** 应该替换为你自己的工作区路径（Windows 下的 **C:/Users/YourName/go**，Linux 或 Mac 下的 **$HOME/go**）。
 
@@ -98,7 +101,11 @@ func main() { //3
 
 请提供给我们宝贵的反馈和意见。感谢您的阅读 :)
 
-**下一教程 - 变量**
+**上一教程 - [介绍与安装](https://studygolang.com/articles/11706)**
+
+**下一教程 - [变量](https://studygolang.com/articles/11756)**
+
+---
 
 via: https://golangbot.com/hello-world/
 
